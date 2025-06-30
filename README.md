@@ -1,7 +1,7 @@
 # 🚀 Azure CI/CD Flask App Deployment
 
 This project demonstrates the implementation of a **CI/CD (Continuous Integration and Continuous Deployment) pipeline** using **Azure DevOps** to deploy a **Flask web application** to **Azure App Service**.
-
+Here is the YAML File that I used for setting up the Pipelines.
 > ✅ Created as part of my **DevOps Internship at CodeAlpha**.
 
 ---
